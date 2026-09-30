@@ -1,0 +1,1013 @@
+ID_Envio,Ruta_Origen,Tipo_Vehiculo,Tipo_Carga,Distancia_KM,Combustible_Galones,Peso_Toneladas,Estado_Entrega
+LOG-4001,Ibagué,Camión Mediano,Electrónica,120,14,16.32,A Tiempo
+LOG-4002,Armenia,Camioneta,Textiles,120,70,17.9,A Tiempo
+LOG-4003,Ibagué,Camión Mediano,Alimentos,78.5,22,5.64,A Tiempo
+LOG-4004,Pereira,Camioneta,Textiles,,14,7.96,A Tiempo
+LOG-4005,Pereira,Tractomula,Materiales Construcción,120,14,11.01,A Tiempo
+LOG-4006,Cali,Tractomula,Electrónica,180.5,70,7.96,A Tiempo
+LOG-4007,Armenia,Furgón,Materiales Construcción,45,22,3.34,A Tiempo
+LOG-4008,Ibagué,Camioneta,Alimentos,180.5,,21.94,A Tiempo
+LOG-4009,Cali,Camioneta,Textiles,180.5,14,14.45,A Tiempo
+LOG-4010,Pereira,Camión Mediano,Electrónica,78.5,8.5,10.56,Retrasado
+LOG-4011,Manizales,Furgón,Textiles,120,14,22.03,A Tiempo
+LOG-4012,Cali,Furgón,Electrónica,45,14,11.18,A Tiempo
+LOG-4013,Cali,Tractomula,Electrónica,180.5,8.5,8.72,A Tiempo
+LOG-4014,Cali,Furgón,Electrónica,78.5,8.5,0.68,Retrasado
+LOG-4015,Cali,Camión Mediano,Alimentos,120,22,21.68,Cancelado
+LOG-4016,Armenia,Camión Mediano,Textiles,120,14,7.06,Retrasado
+LOG-4017,Cali,Tractomula,Electrónica,45,14,18.18,A Tiempo
+LOG-4018,Armenia,Furgón,Electrónica,180.5,35.5,20.41,A Tiempo
+LOG-4019,Armenia,Tractomula,Textiles,45,35.5,23.68,Cancelado
+LOG-4020,Armenia,Tractomula,Textiles,78.5,22,12.91,Cancelado
+LOG-4021,Ibagué,Furgón,Materiales Construcción,180.5,35.5,22.31,A Tiempo
+LOG-4022,Pereira,Tractomula,Electrónica,260,8.5,17.98,A Tiempo
+LOG-4023,Armenia,Furgón,Electrónica,78.5,35.5,15.04,A Tiempo
+LOG-4024,Armenia,Camioneta,Materiales Construcción,,14,1.9,Cancelado
+LOG-4025,Ibagué,Camioneta,Electrónica,120,8.5,12.41,A Tiempo
+LOG-4026,Cali,Camión Mediano,Textiles,120,8.5,23.37,Cancelado
+LOG-4027,Manizales,Camión Mediano,Electrónica,45,52,12.38,Retrasado
+LOG-4028,Ibagué,Camioneta,Electrónica,450,8.5,13.77,Retrasado
+LOG-4029,Armenia,Camioneta,Electrónica,120,52,2.07,A Tiempo
+LOG-4030,Armenia,Camioneta,Textiles,78.5,22,16.92,Retrasado
+LOG-4031,Cali,Camión Mediano,Electrónica,120,22,20.48,A Tiempo
+LOG-4032,Pereira,Furgón,Alimentos,45,14,5.11,A Tiempo
+LOG-4033,Cali,Camión Mediano,Materiales Construcción,78.5,35.5,24.81,A Tiempo
+LOG-4034,Armenia,Furgón,Materiales Construcción,45,14,14.54,A Tiempo
+LOG-4035,Armenia,Camión Mediano,Electrónica,120,35.5,10.09,A Tiempo
+LOG-4036,Pereira,Camioneta,Electrónica,78.5,14,13.01,Retrasado
+LOG-4037,Pereira,Camioneta,Textiles,260,70,22.37,Cancelado
+LOG-4038,Armenia,Camioneta,Materiales Construcción,120,22,11.97,Retrasado
+LOG-4039,Manizales,Camioneta,Electrónica,180.5,8.5,1.88,A Tiempo
+LOG-4040,Ibagué,Camión Mediano,Textiles,180.5,14,18.79,A Tiempo
+LOG-4041,Cali,Camión Mediano,Alimentos,120,22,22.8,A Tiempo
+LOG-4042,Cali,Tractomula,Alimentos,310,14,16.15,Retrasado
+LOG-4043,Armenia,Camión Mediano,Materiales Construcción,,14,19.99,Retrasado
+LOG-4044,Manizales,Tractomula,Materiales Construcción,260,14,6.87,Retrasado
+LOG-4045,Armenia,Furgón,Alimentos,120,8.5,17.21,A Tiempo
+LOG-4046,Manizales,Furgón,Materiales Construcción,180.5,22,10.94,A Tiempo
+LOG-4047,Armenia,Camión Mediano,Materiales Construcción,310,22,15.69,A Tiempo
+LOG-4048,Pereira,Camión Mediano,Materiales Construcción,120,52,2.58,A Tiempo
+LOG-4049,Manizales,Tractomula,Alimentos,180.5,52,4.88,Cancelado
+LOG-4050,Manizales,Tractomula,Textiles,180.5,14,7.53,A Tiempo
+LOG-4051,Manizales,Furgón,Materiales Construcción,120,22,10.38,Retrasado
+LOG-4052,Ibagué,Camioneta,Alimentos,78.5,14,9.21,Retrasado
+LOG-4053,Pereira,Camioneta,Textiles,310,14,24.75,A Tiempo
+LOG-4054,Pereira,Camioneta,Materiales Construcción,,22,15.55,A Tiempo
+LOG-4055,Pereira,Camioneta,Materiales Construcción,260,22,23.18,A Tiempo
+LOG-4056,Pereira,Camioneta,Electrónica,78.5,,11.34,A Tiempo
+LOG-4057,Pereira,Furgón,Alimentos,120,14,7.73,A Tiempo
+LOG-4058,Manizales,Furgón,Alimentos,45,22,11.34,A Tiempo
+LOG-4059,Armenia,Camioneta,Electrónica,120,70,2.59,A Tiempo
+LOG-4060,Pereira,Tractomula,Electrónica,120,8.5,13.15,A Tiempo
+LOG-4061,Cali,Tractomula,Textiles,120,35.5,12.85,A Tiempo
+LOG-4062,Cali,Camión Mediano,Electrónica,310,22,6.93,A Tiempo
+LOG-4063,Pereira,Camión Mediano,Textiles,120,14,8.1,Retrasado
+LOG-4064,Cali,Tractomula,Materiales Construcción,260,,12.02,A Tiempo
+LOG-4065,Pereira,Camión Mediano,Alimentos,78.5,22,11.06,A Tiempo
+LOG-4066,Ibagué,Furgón,Materiales Construcción,45,22,18.01,A Tiempo
+LOG-4067,Cali,Camioneta,Electrónica,260,52,12.65,A Tiempo
+LOG-4068,Armenia,Camión Mediano,Electrónica,78.5,52,4.77,Cancelado
+LOG-4069,Ibagué,Tractomula,Textiles,450,35.5,23.57,A Tiempo
+LOG-4070,Ibagué,Camioneta,Alimentos,45,22,13.33,Retrasado
+LOG-4071,Cali,Tractomula,Materiales Construcción,260,8.5,4.62,Cancelado
+LOG-4072,Manizales,Camión Mediano,Alimentos,180.5,14,12.91,A Tiempo
+LOG-4073,Armenia,Tractomula,Textiles,78.5,,23.82,A Tiempo
+LOG-4074,Cali,Camioneta,Alimentos,,35.5,5.44,Retrasado
+LOG-4075,Cali,Camión Mediano,Textiles,45,14,7.14,Retrasado
+LOG-4076,Pereira,Camión Mediano,Electrónica,78.5,14,16.42,Retrasado
+LOG-4077,Pereira,Camión Mediano,Alimentos,180.5,14,4.63,A Tiempo
+LOG-4078,Manizales,Furgón,Alimentos,260,,19.6,A Tiempo
+LOG-4079,Manizales,Camión Mediano,Alimentos,45,22,23.66,A Tiempo
+LOG-4080,Pereira,Tractomula,Materiales Construcción,78.5,8.5,3.23,A Tiempo
+LOG-4081,Armenia,Camioneta,Materiales Construcción,45,14,11.01,A Tiempo
+LOG-4082,Pereira,Tractomula,Alimentos,78.5,22,6.76,Retrasado
+LOG-4083,Armenia,Furgón,Textiles,,70,5.75,A Tiempo
+LOG-4084,Cali,Tractomula,Materiales Construcción,180.5,14,18.41,A Tiempo
+LOG-4085,Pereira,Camión Mediano,Alimentos,45,14,9.94,A Tiempo
+LOG-4086,Manizales,Tractomula,Materiales Construcción,78.5,35.5,15.43,A Tiempo
+LOG-4087,Pereira,Furgón,Electrónica,,22,10.19,Retrasado
+LOG-4088,Ibagué,Camión Mediano,Textiles,450,52,11.14,A Tiempo
+LOG-4089,Armenia,Camioneta,Alimentos,260,,8.86,A Tiempo
+LOG-4090,Pereira,Tractomula,Electrónica,78.5,8.5,16.49,A Tiempo
+LOG-4091,Cali,Furgón,Materiales Construcción,450,22,22.09,A Tiempo
+LOG-4092,Ibagué,Camioneta,Alimentos,180.5,35.5,13.37,A Tiempo
+LOG-4093,Manizales,Furgón,Electrónica,45,52,21.78,A Tiempo
+LOG-4094,Pereira,Tractomula,Textiles,78.5,35.5,7.06,Retrasado
+LOG-4095,Armenia,Camión Mediano,Electrónica,310,8.5,5.1,A Tiempo
+LOG-4096,Ibagué,Camión Mediano,Electrónica,120,35.5,18.08,Retrasado
+LOG-4097,Ibagué,Furgón,Electrónica,310,8.5,3.6,A Tiempo
+LOG-4098,Manizales,Tractomula,Electrónica,78.5,14,23.89,A Tiempo
+LOG-4099,Pereira,Camioneta,Electrónica,45,8.5,9.8,Retrasado
+LOG-4100,Manizales,Tractomula,Alimentos,120,,9.72,A Tiempo
+LOG-4101,Cali,Camioneta,Materiales Construcción,180.5,35.5,9.33,A Tiempo
+LOG-4102,Cali,Furgón,Electrónica,78.5,22,21.95,A Tiempo
+LOG-4103,Manizales,Camión Mediano,Textiles,,14,3.73,Retrasado
+LOG-4104,Manizales,Furgón,Textiles,120,35.5,17.92,Retrasado
+LOG-4105,Manizales,Camioneta,Textiles,310,14,6.57,Retrasado
+LOG-4106,Manizales,Camioneta,Electrónica,45,8.5,24.97,A Tiempo
+LOG-4107,Cali,Tractomula,Alimentos,78.5,14,24.6,A Tiempo
+LOG-4108,Manizales,Tractomula,Electrónica,180.5,8.5,1.31,A Tiempo
+LOG-4109,Pereira,Camioneta,Alimentos,120,35.5,22.41,A Tiempo
+LOG-4110,Ibagué,Camión Mediano,Electrónica,260,70,12.08,Retrasado
+LOG-4111,Ibagué,Furgón,Materiales Construcción,260,22,6.4,Retrasado
+LOG-4112,Ibagué,Furgón,Materiales Construcción,120,35.5,8.19,A Tiempo
+LOG-4113,Pereira,Furgón,Electrónica,450,52,22.33,A Tiempo
+LOG-4114,Armenia,Furgón,Electrónica,450,22,15.87,A Tiempo
+LOG-4115,Armenia,Tractomula,Electrónica,260,14,20.02,A Tiempo
+LOG-4116,Armenia,Camioneta,Electrónica,260,35.5,17.15,Cancelado
+LOG-4117,Pereira,Tractomula,Electrónica,450,8.5,11.35,A Tiempo
+LOG-4118,Cali,Camión Mediano,Textiles,180.5,,19.17,A Tiempo
+LOG-4119,Cali,Camioneta,Electrónica,450,70,20.88,A Tiempo
+LOG-4120,Ibagué,Tractomula,Materiales Construcción,45,52,23.21,A Tiempo
+LOG-4121,Ibagué,Furgón,Materiales Construcción,45,,11.99,A Tiempo
+LOG-4122,Ibagué,Camión Mediano,Textiles,180.5,8.5,2.88,A Tiempo
+LOG-4123,Cali,Camión Mediano,Textiles,180.5,22,20.71,A Tiempo
+LOG-4124,Manizales,Furgón,Electrónica,180.5,8.5,13.17,Retrasado
+LOG-4125,Manizales,Camioneta,Textiles,78.5,35.5,11.51,A Tiempo
+LOG-4126,Cali,Furgón,Materiales Construcción,120,35.5,9.85,A Tiempo
+LOG-4127,Manizales,Furgón,Materiales Construcción,45,14,20.87,A Tiempo
+LOG-4128,Pereira,Camión Mediano,Electrónica,78.5,8.5,4.97,A Tiempo
+LOG-4129,Cali,Tractomula,Materiales Construcción,78.5,22,20.13,A Tiempo
+LOG-4130,Ibagué,Tractomula,Alimentos,120,14,12.89,A Tiempo
+LOG-4131,Armenia,Camioneta,Electrónica,310,14,4.93,A Tiempo
+LOG-4132,Manizales,Tractomula,Textiles,,35.5,15.78,A Tiempo
+LOG-4133,Ibagué,Furgón,Textiles,78.5,8.5,4.62,A Tiempo
+LOG-4134,Cali,Camión Mediano,Materiales Construcción,180.5,14,9.9,A Tiempo
+LOG-4135,Manizales,Furgón,Materiales Construcción,180.5,22,19.13,A Tiempo
+LOG-4136,Ibagué,Tractomula,Materiales Construcción,45,8.5,23.88,A Tiempo
+LOG-4137,Manizales,Camioneta,Textiles,120,14,17.09,Retrasado
+LOG-4138,Ibagué,Camioneta,Electrónica,180.5,70,1.66,Cancelado
+LOG-4139,Cali,Furgón,Electrónica,180.5,14,5.78,A Tiempo
+LOG-4140,Cali,Camioneta,Alimentos,180.5,70,2.92,Retrasado
+LOG-4141,Ibagué,Furgón,Materiales Construcción,45,8.5,5.99,Cancelado
+LOG-4142,Armenia,Furgón,Materiales Construcción,78.5,22,7.07,A Tiempo
+LOG-4143,Cali,Camión Mediano,Materiales Construcción,78.5,8.5,2.21,A Tiempo
+LOG-4144,Ibagué,Tractomula,Textiles,180.5,8.5,3.31,Retrasado
+LOG-4145,Pereira,Tractomula,Alimentos,78.5,8.5,13.41,Retrasado
+LOG-4146,Cali,Camión Mediano,Alimentos,45,14,3.53,A Tiempo
+LOG-4147,Armenia,Tractomula,Alimentos,45,14,3.65,A Tiempo
+LOG-4148,Armenia,Camioneta,Materiales Construcción,120,14,6.69,Cancelado
+LOG-4149,Pereira,Camioneta,Electrónica,120,14,9.73,A Tiempo
+LOG-4150,Manizales,Camión Mediano,Materiales Construcción,310,8.5,22.47,A Tiempo
+LOG-4151,Pereira,Tractomula,Alimentos,180.5,35.5,7.49,A Tiempo
+LOG-4152,Armenia,Camioneta,Electrónica,260,35.5,16.32,A Tiempo
+LOG-4153,Cali,Camioneta,Alimentos,78.5,22,4.54,A Tiempo
+LOG-4154,Manizales,Camioneta,Electrónica,180.5,14,22.71,A Tiempo
+LOG-4155,Pereira,Furgón,Materiales Construcción,45,52,20.99,A Tiempo
+LOG-4156,Manizales,Camión Mediano,Alimentos,120,22,19.48,A Tiempo
+LOG-4157,Pereira,Camión Mediano,Textiles,120,70,17.02,A Tiempo
+LOG-4158,Manizales,Furgón,Electrónica,180.5,35.5,15.27,A Tiempo
+LOG-4159,Armenia,Camioneta,Electrónica,78.5,22,10.67,Retrasado
+LOG-4160,Armenia,Tractomula,Alimentos,78.5,35.5,13.59,A Tiempo
+LOG-4161,Armenia,Furgón,Electrónica,120,14,15.02,A Tiempo
+LOG-4162,Ibagué,Camioneta,Alimentos,45,14,12.97,A Tiempo
+LOG-4163,Manizales,Camión Mediano,Electrónica,260,52,13.65,A Tiempo
+LOG-4164,Cali,Furgón,Alimentos,45,22,20.71,A Tiempo
+LOG-4165,Manizales,Camioneta,Alimentos,45,8.5,9.06,A Tiempo
+LOG-4166,Cali,Furgón,Alimentos,45,70,11.76,A Tiempo
+LOG-4167,Manizales,Tractomula,Alimentos,120,8.5,10.69,Retrasado
+LOG-4168,Manizales,Tractomula,Alimentos,120,8.5,13.14,A Tiempo
+LOG-4169,Pereira,Furgón,Materiales Construcción,45,14,10.61,Retrasado
+LOG-4170,Manizales,Camión Mediano,Alimentos,45,22,22.61,A Tiempo
+LOG-4171,Armenia,Camioneta,Alimentos,,22,22.94,Retrasado
+LOG-4172,Cali,Tractomula,Alimentos,45,22,13.32,Retrasado
+LOG-4173,Ibagué,Tractomula,Materiales Construcción,120,8.5,16.52,A Tiempo
+LOG-4174,Armenia,Camioneta,Materiales Construcción,120,14,23.62,A Tiempo
+LOG-4175,Pereira,Camioneta,Materiales Construcción,180.5,35.5,4.77,A Tiempo
+LOG-4176,Armenia,Furgón,Materiales Construcción,180.5,8.5,24.04,Retrasado
+LOG-4177,Manizales,Camión Mediano,Electrónica,45,14,24.82,A Tiempo
+LOG-4178,Armenia,Tractomula,Alimentos,180.5,8.5,9.88,A Tiempo
+LOG-4179,Armenia,Camioneta,Textiles,78.5,22,10.33,A Tiempo
+LOG-4180,Armenia,Camioneta,Electrónica,,70,20.1,A Tiempo
+LOG-4181,Pereira,Furgón,Electrónica,180.5,8.5,14.9,Retrasado
+LOG-4182,Armenia,Tractomula,Alimentos,78.5,35.5,18,Cancelado
+LOG-4183,Manizales,Tractomula,Textiles,45,8.5,2.47,A Tiempo
+LOG-4184,Cali,Camioneta,Alimentos,180.5,22,13,A Tiempo
+LOG-4185,Cali,Tractomula,Alimentos,120,35.5,3.86,Retrasado
+LOG-4186,Pereira,Camión Mediano,Electrónica,78.5,,11.34,A Tiempo
+LOG-4187,Cali,Camión Mediano,Textiles,45,14,18.78,A Tiempo
+LOG-4188,Ibagué,Camión Mediano,Alimentos,120,52,15.61,Retrasado
+LOG-4189,Ibagué,Tractomula,Textiles,260,22,6.77,A Tiempo
+LOG-4190,Armenia,Camión Mediano,Textiles,,14,13.01,A Tiempo
+LOG-4191,Pereira,Camioneta,Electrónica,120,35.5,7.47,A Tiempo
+LOG-4192,Cali,Camión Mediano,Electrónica,180.5,,15.19,A Tiempo
+LOG-4193,Armenia,Furgón,Textiles,78.5,35.5,6.56,A Tiempo
+LOG-4194,Ibagué,Tractomula,Materiales Construcción,120,35.5,19.82,A Tiempo
+LOG-4195,Armenia,Tractomula,Textiles,450,35.5,20.13,A Tiempo
+LOG-4196,Armenia,Camioneta,Textiles,180.5,35.5,19.4,A Tiempo
+LOG-4197,Armenia,Furgón,Textiles,260,35.5,2.78,A Tiempo
+LOG-4198,Ibagué,Tractomula,Materiales Construcción,260,52,4.8,A Tiempo
+LOG-4199,Pereira,Camioneta,Materiales Construcción,78.5,22,5.55,A Tiempo
+LOG-4200,Pereira,Camión Mediano,Textiles,78.5,22,12.16,Retrasado
+LOG-4201,Cali,Camión Mediano,Textiles,120,,16.05,A Tiempo
+LOG-4202,Armenia,Camión Mediano,Textiles,180.5,22,8.2,Retrasado
+LOG-4203,Ibagué,Tractomula,Alimentos,260,14,23.71,A Tiempo
+LOG-4204,Cali,Furgón,Textiles,45,70,8.08,A Tiempo
+LOG-4205,Armenia,Camión Mediano,Alimentos,78.5,22,15.78,Cancelado
+LOG-4206,Manizales,Camioneta,Materiales Construcción,78.5,14,15.12,Cancelado
+LOG-4207,Cali,Camioneta,Electrónica,260,35.5,18.92,A Tiempo
+LOG-4208,Pereira,Camioneta,Materiales Construcción,45,22,14.11,A Tiempo
+LOG-4209,Ibagué,Camión Mediano,Alimentos,310,8.5,4.81,Retrasado
+LOG-4210,Ibagué,Furgón,Textiles,,52,22.31,A Tiempo
+LOG-4211,Ibagué,Tractomula,Textiles,180.5,35.5,14.25,A Tiempo
+LOG-4212,Manizales,Furgón,Materiales Construcción,310,22,1.83,A Tiempo
+LOG-4213,Pereira,Camioneta,Materiales Construcción,45,52,5.25,A Tiempo
+LOG-4214,Pereira,Tractomula,Textiles,310,52,13.65,Retrasado
+LOG-4215,Manizales,Camión Mediano,Electrónica,45,,5.39,A Tiempo
+LOG-4216,Cali,Camión Mediano,Materiales Construcción,180.5,14,7.53,A Tiempo
+LOG-4217,Pereira,Furgón,Alimentos,,14,13.15,A Tiempo
+LOG-4218,Ibagué,Camioneta,Materiales Construcción,310,70,8.9,A Tiempo
+LOG-4219,Manizales,Tractomula,Textiles,78.5,14,5.98,A Tiempo
+LOG-4220,Cali,Furgón,Electrónica,180.5,52,14.86,A Tiempo
+LOG-4221,Armenia,Camión Mediano,Materiales Construcción,45,52,16.54,A Tiempo
+LOG-4222,Ibagué,Furgón,Alimentos,180.5,35.5,18.85,A Tiempo
+LOG-4223,Cali,Camión Mediano,Electrónica,180.5,52,13.34,A Tiempo
+LOG-4224,Armenia,Furgón,Textiles,78.5,35.5,17.82,Retrasado
+LOG-4225,Armenia,Tractomula,Electrónica,78.5,14,22.12,Retrasado
+LOG-4226,Cali,Camioneta,Materiales Construcción,78.5,8.5,14.17,A Tiempo
+LOG-4227,Pereira,Camión Mediano,Alimentos,45,35.5,23.93,A Tiempo
+LOG-4228,Pereira,Camioneta,Electrónica,78.5,14,11.27,A Tiempo
+LOG-4229,Cali,Camión Mediano,Materiales Construcción,180.5,35.5,12.15,A Tiempo
+LOG-4230,Armenia,Furgón,Materiales Construcción,45,8.5,13.98,A Tiempo
+LOG-4231,Cali,Camioneta,Materiales Construcción,260,52,1.89,A Tiempo
+LOG-4232,Cali,Camioneta,Alimentos,120,52,19.3,A Tiempo
+LOG-4233,Ibagué,Camioneta,Alimentos,180.5,35.5,18.9,A Tiempo
+LOG-4234,Manizales,Tractomula,Materiales Construcción,310,14,17.03,Retrasado
+LOG-4235,Pereira,Furgón,Electrónica,180.5,52,4.54,A Tiempo
+LOG-4236,Manizales,Furgón,Alimentos,78.5,8.5,5.26,Retrasado
+LOG-4237,Ibagué,Camión Mediano,Textiles,78.5,14,14.58,A Tiempo
+LOG-4238,Cali,Camioneta,Electrónica,260,14,20.28,A Tiempo
+LOG-4239,Cali,Camión Mediano,Electrónica,120,70,21.76,A Tiempo
+LOG-4240,Manizales,Furgón,Materiales Construcción,,8.5,0.97,A Tiempo
+LOG-4241,Cali,Camioneta,Electrónica,120,35.5,14.42,A Tiempo
+LOG-4242,Pereira,Camioneta,Electrónica,120,14,13.45,A Tiempo
+LOG-4243,Cali,Furgón,Electrónica,120,70,17.59,A Tiempo
+LOG-4244,Ibagué,Tractomula,Alimentos,260,14,3.88,A Tiempo
+LOG-4245,Ibagué,Furgón,Alimentos,45,14,21.82,Cancelado
+LOG-4246,Cali,Furgón,Materiales Construcción,120,70,15.52,Retrasado
+LOG-4247,Cali,Furgón,Materiales Construcción,,22,10.63,Cancelado
+LOG-4248,Armenia,Tractomula,Alimentos,120,14,15.9,A Tiempo
+LOG-4249,Pereira,Furgón,Materiales Construcción,,8.5,3.91,A Tiempo
+LOG-4250,Ibagué,Camioneta,Textiles,45,22,0.7,A Tiempo
+LOG-4251,Manizales,Tractomula,Textiles,,8.5,4.08,Cancelado
+LOG-4252,Armenia,Furgón,Electrónica,260,14,15.06,Retrasado
+LOG-4253,Armenia,Camión Mediano,Textiles,78.5,22,0.76,A Tiempo
+LOG-4254,Cali,Tractomula,Textiles,120,22,17.76,A Tiempo
+LOG-4255,Manizales,Camión Mediano,Textiles,180.5,14,21.23,A Tiempo
+LOG-4256,Pereira,Furgón,Alimentos,78.5,22,10.91,Retrasado
+LOG-4257,Manizales,Furgón,Textiles,260,14,14.76,A Tiempo
+LOG-4258,Pereira,Furgón,Textiles,260,,12.11,Retrasado
+LOG-4259,Cali,Tractomula,Textiles,78.5,22,1.16,A Tiempo
+LOG-4260,Armenia,Camioneta,Textiles,180.5,14,23.78,Cancelado
+LOG-4261,Manizales,Tractomula,Textiles,180.5,52,17.07,A Tiempo
+LOG-4262,Manizales,Camión Mediano,Textiles,,8.5,4.32,A Tiempo
+LOG-4263,Cali,Camión Mediano,Electrónica,78.5,14,8.54,Retrasado
+LOG-4264,Armenia,Camioneta,Electrónica,45,,18.75,Cancelado
+LOG-4265,Cali,Furgón,Electrónica,450,8.5,10.54,A Tiempo
+LOG-4266,Cali,Tractomula,Electrónica,78.5,14,11.67,A Tiempo
+LOG-4267,Manizales,Furgón,Textiles,120,35.5,1.62,Cancelado
+LOG-4268,Pereira,Tractomula,Materiales Construcción,78.5,22,16.65,A Tiempo
+LOG-4269,Ibagué,Camioneta,Materiales Construcción,120,22,9.17,A Tiempo
+LOG-4270,Cali,Camión Mediano,Electrónica,310,8.5,3.25,A Tiempo
+LOG-4271,Ibagué,Tractomula,Textiles,78.5,8.5,10.09,Retrasado
+LOG-4272,Manizales,Tractomula,Electrónica,45,70,9.02,A Tiempo
+LOG-4273,Pereira,Tractomula,Electrónica,45,70,14.84,Retrasado
+LOG-4274,Cali,Camión Mediano,Textiles,120,14,13.44,Retrasado
+LOG-4275,Cali,Camión Mediano,Materiales Construcción,310,14,2.28,A Tiempo
+LOG-4276,Manizales,Camioneta,Alimentos,45,8.5,13.82,Cancelado
+LOG-4277,Pereira,Camioneta,Materiales Construcción,120,14,8.51,Cancelado
+LOG-4278,Ibagué,Camión Mediano,Alimentos,120,70,9.28,A Tiempo
+LOG-4279,Cali,Camión Mediano,Alimentos,260,8.5,18.1,A Tiempo
+LOG-4280,Pereira,Furgón,Alimentos,78.5,22,10.56,Retrasado
+LOG-4281,Cali,Camión Mediano,Materiales Construcción,260,22,21.39,A Tiempo
+LOG-4282,Manizales,Camión Mediano,Textiles,180.5,8.5,6.22,A Tiempo
+LOG-4283,Manizales,Camión Mediano,Textiles,78.5,52,20.31,A Tiempo
+LOG-4284,Cali,Camioneta,Textiles,45,,19.27,Retrasado
+LOG-4285,Cali,Tractomula,Electrónica,78.5,14,9.65,Retrasado
+LOG-4286,Manizales,Camioneta,Electrónica,,22,22.99,Cancelado
+LOG-4287,Manizales,Camión Mediano,Textiles,78.5,14,20.78,A Tiempo
+LOG-4288,Armenia,Camión Mediano,Alimentos,180.5,35.5,21.22,Cancelado
+LOG-4289,Ibagué,Camioneta,Alimentos,180.5,,11.83,A Tiempo
+LOG-4290,Pereira,Camión Mediano,Materiales Construcción,260,14,18.45,Retrasado
+LOG-4291,Ibagué,Furgón,Electrónica,450,22,11.7,A Tiempo
+LOG-4292,Armenia,Furgón,Textiles,120,35.5,18.21,A Tiempo
+LOG-4293,Pereira,Furgón,Textiles,78.5,8.5,20.97,A Tiempo
+LOG-4294,Cali,Furgón,Electrónica,260,14,21.76,A Tiempo
+LOG-4295,Ibagué,Furgón,Alimentos,120,35.5,7.62,Retrasado
+LOG-4296,Armenia,Furgón,Electrónica,78.5,35.5,5.07,A Tiempo
+LOG-4297,Manizales,Furgón,Textiles,78.5,70,17.42,Retrasado
+LOG-4298,Pereira,Camión Mediano,Textiles,260,22,15.72,A Tiempo
+LOG-4299,Cali,Tractomula,Materiales Construcción,260,52,23.81,Cancelado
+LOG-4300,Pereira,Furgón,Materiales Construcción,310,22,18.4,Cancelado
+LOG-4301,Cali,Camión Mediano,Materiales Construcción,45,22,2.09,A Tiempo
+LOG-4302,Pereira,Camión Mediano,Electrónica,78.5,14,8.6,A Tiempo
+LOG-4303,Armenia,Tractomula,Materiales Construcción,260,14,4.92,Retrasado
+LOG-4304,Pereira,Tractomula,Electrónica,120,14,22.42,A Tiempo
+LOG-4305,Ibagué,Camión Mediano,Alimentos,310,52,20.28,A Tiempo
+LOG-4306,Cali,Camioneta,Textiles,120,,6.65,Retrasado
+LOG-4307,Manizales,Furgón,Textiles,310,14,9.93,A Tiempo
+LOG-4308,Ibagué,Camión Mediano,Textiles,120,52,4.71,A Tiempo
+LOG-4309,Ibagué,Tractomula,Electrónica,45,8.5,6.1,A Tiempo
+LOG-4310,Manizales,Camioneta,Textiles,450,22,1.59,A Tiempo
+LOG-4311,Pereira,Tractomula,Textiles,180.5,14,1.96,Retrasado
+LOG-4312,Armenia,Furgón,Materiales Construcción,120,8.5,21.08,A Tiempo
+LOG-4313,Pereira,Tractomula,Materiales Construcción,120,22,14.5,Retrasado
+LOG-4314,Pereira,Camión Mediano,Alimentos,120,35.5,10.92,Retrasado
+LOG-4315,Ibagué,Camioneta,Materiales Construcción,310,8.5,2.14,A Tiempo
+LOG-4316,Armenia,Camioneta,Materiales Construcción,260,14,15.7,Cancelado
+LOG-4317,Ibagué,Furgón,Textiles,120,22,17.02,Retrasado
+LOG-4318,Cali,Camión Mediano,Materiales Construcción,45,8.5,20.35,A Tiempo
+LOG-4319,Pereira,Furgón,Alimentos,260,35.5,12.38,A Tiempo
+LOG-4320,Ibagué,Tractomula,Materiales Construcción,,,13.7,A Tiempo
+LOG-4321,Cali,Camioneta,Materiales Construcción,120,14,24.79,Retrasado
+LOG-4322,Armenia,Camión Mediano,Textiles,45,70,5.01,A Tiempo
+LOG-4323,Pereira,Furgón,Textiles,78.5,35.5,14.03,A Tiempo
+LOG-4324,Cali,Camión Mediano,Materiales Construcción,260,35.5,9.75,Retrasado
+LOG-4325,Armenia,Furgón,Alimentos,310,22,9.2,Cancelado
+LOG-4326,Manizales,Tractomula,Textiles,45,22,11.8,Retrasado
+LOG-4327,Cali,Camioneta,Textiles,180.5,52,3.41,Cancelado
+LOG-4328,Ibagué,Tractomula,Electrónica,120,14,14.41,Cancelado
+LOG-4329,Cali,Camión Mediano,Materiales Construcción,120,70,12.89,A Tiempo
+LOG-4330,Ibagué,Tractomula,Electrónica,45,14,0.52,A Tiempo
+LOG-4331,Cali,Camión Mediano,Materiales Construcción,180.5,14,7.63,A Tiempo
+LOG-4332,Manizales,Camión Mediano,Materiales Construcción,78.5,35.5,18.08,Retrasado
+LOG-4333,Cali,Furgón,Electrónica,260,22,16.33,A Tiempo
+LOG-4334,Armenia,Camioneta,Materiales Construcción,120,22,2.83,Cancelado
+LOG-4335,Ibagué,Furgón,Electrónica,310,8.5,10.59,A Tiempo
+LOG-4336,Pereira,Camión Mediano,Materiales Construcción,78.5,14,9.62,A Tiempo
+LOG-4337,Pereira,Camioneta,Materiales Construcción,78.5,14,20.21,A Tiempo
+LOG-4338,Manizales,Camioneta,Alimentos,180.5,22,24.21,Cancelado
+LOG-4339,Pereira,Camión Mediano,Alimentos,78.5,70,24.84,A Tiempo
+LOG-4340,Armenia,Camión Mediano,Textiles,180.5,14,4.78,A Tiempo
+LOG-4341,Pereira,Camioneta,Textiles,120,8.5,7.62,A Tiempo
+LOG-4342,Manizales,Camión Mediano,Alimentos,260,14,20.93,A Tiempo
+LOG-4343,Manizales,Furgón,Textiles,45,35.5,19.06,A Tiempo
+LOG-4344,Armenia,Tractomula,Electrónica,450,14,17.27,A Tiempo
+LOG-4345,Pereira,Furgón,Textiles,78.5,8.5,11.76,A Tiempo
+LOG-4346,Pereira,Camioneta,Alimentos,,8.5,3.32,A Tiempo
+LOG-4347,Manizales,Furgón,Electrónica,260,8.5,15.39,Cancelado
+LOG-4348,Pereira,Camión Mediano,Textiles,,52,19.7,Retrasado
+LOG-4349,Pereira,Camión Mediano,Alimentos,260,35.5,12.39,Cancelado
+LOG-4350,Ibagué,Furgón,Textiles,120,35.5,7.44,Retrasado
+LOG-4351,Armenia,Camión Mediano,Alimentos,180.5,22,3.29,Cancelado
+LOG-4352,Armenia,Camioneta,Textiles,120,22,0.55,A Tiempo
+LOG-4353,Manizales,Furgón,Textiles,45,22,16.49,A Tiempo
+LOG-4354,Ibagué,Furgón,Electrónica,45,52,15.31,A Tiempo
+LOG-4355,Pereira,Furgón,Textiles,78.5,8.5,16.13,Cancelado
+LOG-4356,Pereira,Camioneta,Electrónica,78.5,8.5,21.05,A Tiempo
+LOG-4357,Pereira,Camioneta,Textiles,120,14,17.96,A Tiempo
+LOG-4358,Ibagué,Camión Mediano,Alimentos,120,22,23.2,A Tiempo
+LOG-4359,Cali,Camioneta,Textiles,120,14,23.72,A Tiempo
+LOG-4360,Manizales,Furgón,Electrónica,78.5,,7.05,A Tiempo
+LOG-4361,Manizales,Tractomula,Textiles,120,14,1.62,A Tiempo
+LOG-4362,Cali,Camioneta,Textiles,180.5,35.5,8.73,A Tiempo
+LOG-4363,Armenia,Tractomula,Textiles,45,14,5.37,A Tiempo
+LOG-4364,Ibagué,Camión Mediano,Materiales Construcción,180.5,14,10.04,A Tiempo
+LOG-4365,Pereira,Tractomula,Textiles,260,14,19.95,Retrasado
+LOG-4366,Armenia,Camión Mediano,Alimentos,78.5,14,21.37,A Tiempo
+LOG-4367,Ibagué,Camión Mediano,Materiales Construcción,45,22,12.03,A Tiempo
+LOG-4368,Manizales,Tractomula,Textiles,450,14,10.99,A Tiempo
+LOG-4369,Cali,Camión Mediano,Textiles,180.5,22,16.81,Retrasado
+LOG-4370,Manizales,Camión Mediano,Electrónica,180.5,14,11.82,A Tiempo
+LOG-4371,Armenia,Furgón,Textiles,260,8.5,13.32,A Tiempo
+LOG-4372,Ibagué,Tractomula,Textiles,120,22,19.63,A Tiempo
+LOG-4373,Armenia,Camión Mediano,Alimentos,45,,7.84,A Tiempo
+LOG-4374,Armenia,Tractomula,Textiles,120,22,16.77,A Tiempo
+LOG-4375,Manizales,Camioneta,Electrónica,260,52,17.84,A Tiempo
+LOG-4376,Manizales,Tractomula,Materiales Construcción,45,8.5,16.43,Retrasado
+LOG-4377,Manizales,Camioneta,Alimentos,78.5,52,24.63,A Tiempo
+LOG-4378,Ibagué,Camión Mediano,Alimentos,78.5,22,16.62,Cancelado
+LOG-4379,Manizales,Camioneta,Alimentos,450,8.5,9.24,A Tiempo
+LOG-4380,Armenia,Tractomula,Alimentos,450,8.5,17.17,Cancelado
+LOG-4381,Pereira,Tractomula,Electrónica,310,52,4.83,A Tiempo
+LOG-4382,Armenia,Camioneta,Electrónica,120,14,13.79,A Tiempo
+LOG-4383,Cali,Camioneta,Textiles,120,14,20.19,Cancelado
+LOG-4384,Manizales,Tractomula,Electrónica,310,35.5,15.88,A Tiempo
+LOG-4385,Armenia,Camión Mediano,Electrónica,45,8.5,24.58,A Tiempo
+LOG-4386,Manizales,Camioneta,Alimentos,450,35.5,13.6,A Tiempo
+LOG-4387,Pereira,Tractomula,Electrónica,260,8.5,23.45,A Tiempo
+LOG-4388,Armenia,Furgón,Alimentos,310,35.5,4.64,A Tiempo
+LOG-4389,Armenia,Tractomula,Electrónica,45,22,3.92,A Tiempo
+LOG-4390,Ibagué,Furgón,Alimentos,180.5,22,15.1,A Tiempo
+LOG-4391,Cali,Tractomula,Alimentos,310,35.5,0.77,Retrasado
+LOG-4392,Ibagué,Camión Mediano,Alimentos,180.5,8.5,7.79,A Tiempo
+LOG-4393,Armenia,Tractomula,Electrónica,120,14,15.96,Retrasado
+LOG-4394,Ibagué,Tractomula,Textiles,310,35.5,10.83,A Tiempo
+LOG-4395,Armenia,Camión Mediano,Electrónica,260,22,13.62,Retrasado
+LOG-4396,Pereira,Tractomula,Textiles,120,14,11.47,A Tiempo
+LOG-4397,Ibagué,Furgón,Textiles,120,8.5,5.83,A Tiempo
+LOG-4398,Armenia,Camión Mediano,Textiles,180.5,52,12.68,Cancelado
+LOG-4399,Armenia,Camión Mediano,Materiales Construcción,78.5,52,17.12,A Tiempo
+LOG-4400,Ibagué,Camioneta,Materiales Construcción,260,35.5,13.3,A Tiempo
+LOG-4401,Cali,Furgón,Electrónica,120,22,4.44,A Tiempo
+LOG-4402,Ibagué,Camioneta,Electrónica,78.5,14,8.17,Retrasado
+LOG-4403,Ibagué,Camión Mediano,Textiles,45,22,4.12,A Tiempo
+LOG-4404,Ibagué,Tractomula,Electrónica,120,14,3.57,A Tiempo
+LOG-4405,Ibagué,Furgón,Textiles,310,8.5,23.3,A Tiempo
+LOG-4406,Pereira,Camioneta,Electrónica,180.5,8.5,17.52,Retrasado
+LOG-4407,Armenia,Camioneta,Alimentos,180.5,,23.77,A Tiempo
+LOG-4408,Armenia,Furgón,Textiles,180.5,35.5,7.96,A Tiempo
+LOG-4409,Armenia,Tractomula,Electrónica,78.5,35.5,11.42,Retrasado
+LOG-4410,Manizales,Camioneta,Materiales Construcción,450,,12.32,Retrasado
+LOG-4411,Armenia,Furgón,Materiales Construcción,120,14,4.59,Retrasado
+LOG-4412,Manizales,Tractomula,Textiles,78.5,8.5,19.24,Retrasado
+LOG-4413,Cali,Furgón,Materiales Construcción,260,35.5,24.66,A Tiempo
+LOG-4414,Armenia,Furgón,Textiles,180.5,14,2.82,A Tiempo
+LOG-4415,Pereira,Camioneta,Materiales Construcción,180.5,22,13.84,Retrasado
+LOG-4416,Armenia,Furgón,Materiales Construcción,120,8.5,21.55,A Tiempo
+LOG-4417,Ibagué,Camioneta,Textiles,,8.5,13.93,Cancelado
+LOG-4418,Pereira,Furgón,Materiales Construcción,450,70,8.45,A Tiempo
+LOG-4419,Manizales,Camioneta,Materiales Construcción,450,35.5,19.91,Retrasado
+LOG-4420,Cali,Camioneta,Electrónica,120,35.5,1.46,A Tiempo
+LOG-4421,Ibagué,Tractomula,Materiales Construcción,78.5,35.5,9.94,A Tiempo
+LOG-4422,Pereira,Furgón,Alimentos,78.5,35.5,18.61,A Tiempo
+LOG-4423,Armenia,Furgón,Materiales Construcción,45,14,16.02,A Tiempo
+LOG-4424,Pereira,Camioneta,Electrónica,180.5,,9.83,Retrasado
+LOG-4425,Ibagué,Camioneta,Materiales Construcción,180.5,22,3.72,A Tiempo
+LOG-4426,Cali,Camión Mediano,Materiales Construcción,180.5,8.5,8.19,A Tiempo
+LOG-4427,Manizales,Furgón,Materiales Construcción,45,8.5,16.27,A Tiempo
+LOG-4428,Ibagué,Camión Mediano,Textiles,45,8.5,13.79,A Tiempo
+LOG-4429,Pereira,Camioneta,Alimentos,120,14,2.65,A Tiempo
+LOG-4430,Manizales,Camión Mediano,Materiales Construcción,180.5,8.5,21.17,A Tiempo
+LOG-4431,Cali,Tractomula,Electrónica,120,,13.95,A Tiempo
+LOG-4432,Ibagué,Tractomula,Materiales Construcción,,52,17.49,A Tiempo
+LOG-4433,Pereira,Camión Mediano,Alimentos,120,22,15.79,Cancelado
+LOG-4434,Ibagué,Tractomula,Alimentos,,70,20.35,Retrasado
+LOG-4435,Pereira,Camioneta,Electrónica,180.5,14,12.72,A Tiempo
+LOG-4436,Pereira,Camioneta,Electrónica,45,22,17.19,A Tiempo
+LOG-4437,Pereira,Furgón,Alimentos,120,14,20.04,Cancelado
+LOG-4438,Ibagué,Camión Mediano,Electrónica,180.5,14,14.3,A Tiempo
+LOG-4439,Ibagué,Tractomula,Electrónica,450,14,20.43,A Tiempo
+LOG-4440,Ibagué,Tractomula,Materiales Construcción,78.5,35.5,24.45,Retrasado
+LOG-4441,Armenia,Furgón,Materiales Construcción,120,35.5,3.39,A Tiempo
+LOG-4442,Cali,Furgón,Materiales Construcción,78.5,14,21.46,A Tiempo
+LOG-4443,Pereira,Furgón,Electrónica,78.5,22,24.11,A Tiempo
+LOG-4444,Manizales,Tractomula,Materiales Construcción,310,22,20.27,Retrasado
+LOG-4445,Pereira,Camioneta,Textiles,260,,21.95,A Tiempo
+LOG-4446,Ibagué,Camioneta,Materiales Construcción,120,14,24.91,Retrasado
+LOG-4447,Ibagué,Furgón,Alimentos,78.5,22,13.35,Cancelado
+LOG-4448,Pereira,Tractomula,Textiles,260,14,4.38,A Tiempo
+LOG-4449,Armenia,Camión Mediano,Textiles,78.5,14,24.7,A Tiempo
+LOG-4450,Manizales,Furgón,Electrónica,78.5,,21.1,A Tiempo
+LOG-4451,Manizales,Camioneta,Alimentos,,35.5,11,Retrasado
+LOG-4452,Cali,Camión Mediano,Textiles,260,22,16.86,A Tiempo
+LOG-4453,Ibagué,Tractomula,Electrónica,78.5,22,6.22,A Tiempo
+LOG-4454,Pereira,Camioneta,Alimentos,310,22,5.59,Cancelado
+LOG-4455,Ibagué,Camioneta,Textiles,78.5,8.5,3.73,A Tiempo
+LOG-4456,Cali,Furgón,Textiles,120,,4.58,A Tiempo
+LOG-4457,Pereira,Tractomula,Textiles,78.5,35.5,10.86,A Tiempo
+LOG-4458,Cali,Camión Mediano,Textiles,120,22,3.08,A Tiempo
+LOG-4459,Cali,Camión Mediano,Electrónica,180.5,35.5,12.28,A Tiempo
+LOG-4460,Manizales,Camión Mediano,Alimentos,78.5,35.5,10.84,Cancelado
+LOG-4461,Pereira,Camión Mediano,Electrónica,78.5,70,19.6,Retrasado
+LOG-4462,Manizales,Camión Mediano,Alimentos,78.5,22,13.68,A Tiempo
+LOG-4463,Ibagué,Furgón,Electrónica,180.5,14,24.58,A Tiempo
+LOG-4464,Ibagué,Furgón,Alimentos,260,22,19.27,A Tiempo
+LOG-4465,Manizales,Camioneta,Materiales Construcción,78.5,14,8.57,A Tiempo
+LOG-4466,Ibagué,Tractomula,Alimentos,78.5,14,3.12,Retrasado
+LOG-4467,Pereira,Camioneta,Materiales Construcción,180.5,22,14.34,A Tiempo
+LOG-4468,Cali,Tractomula,Textiles,45,14,13.93,A Tiempo
+LOG-4469,Armenia,Camioneta,Textiles,180.5,22,0.5,A Tiempo
+LOG-4470,Manizales,Tractomula,Materiales Construcción,78.5,8.5,18.69,Retrasado
+LOG-4471,Pereira,Tractomula,Alimentos,45,14,22.46,A Tiempo
+LOG-4472,Cali,Tractomula,Alimentos,78.5,8.5,6.62,A Tiempo
+LOG-4473,Armenia,Camioneta,Alimentos,78.5,22,23.83,Retrasado
+LOG-4474,Manizales,Camión Mediano,Alimentos,120,35.5,7.07,A Tiempo
+LOG-4475,Armenia,Furgón,Electrónica,45,35.5,15.43,A Tiempo
+LOG-4476,Manizales,Camión Mediano,Textiles,120,8.5,18.62,Retrasado
+LOG-4477,Cali,Camión Mediano,Electrónica,120,35.5,21.02,A Tiempo
+LOG-4478,Manizales,Furgón,Textiles,260,14,10.15,A Tiempo
+LOG-4479,Manizales,Tractomula,Materiales Construcción,180.5,14,14.12,Retrasado
+LOG-4480,Pereira,Camioneta,Electrónica,180.5,22,10.45,Retrasado
+LOG-4481,Cali,Furgón,Electrónica,260,35.5,4.08,A Tiempo
+LOG-4482,Manizales,Camioneta,Textiles,260,52,21.24,A Tiempo
+LOG-4483,Cali,Tractomula,Alimentos,180.5,22,5.47,Retrasado
+LOG-4484,Pereira,Tractomula,Alimentos,310,8.5,24.69,A Tiempo
+LOG-4485,Cali,Tractomula,Alimentos,180.5,14,5.83,A Tiempo
+LOG-4486,Ibagué,Camión Mediano,Electrónica,180.5,70,22.94,Retrasado
+LOG-4487,Armenia,Tractomula,Electrónica,450,22,14.73,A Tiempo
+LOG-4488,Manizales,Camión Mediano,Textiles,78.5,52,15.69,Cancelado
+LOG-4489,Manizales,Tractomula,Alimentos,260,22,24.34,Retrasado
+LOG-4490,Cali,Camioneta,Alimentos,450,14,9.59,A Tiempo
+LOG-4491,Manizales,Tractomula,Textiles,120,14,12.1,Retrasado
+LOG-4492,Pereira,Camión Mediano,Materiales Construcción,78.5,70,16.77,A Tiempo
+LOG-4493,Ibagué,Camión Mediano,Alimentos,450,22,16.65,A Tiempo
+LOG-4494,Manizales,Camioneta,Textiles,78.5,35.5,15.39,A Tiempo
+LOG-4495,Manizales,Furgón,Electrónica,120,8.5,2.87,A Tiempo
+LOG-4496,Armenia,Camión Mediano,Electrónica,260,14,16.91,A Tiempo
+LOG-4497,Manizales,Camión Mediano,Textiles,120,14,6.7,Cancelado
+LOG-4498,Cali,Furgón,Materiales Construcción,180.5,35.5,3.5,A Tiempo
+LOG-4499,Cali,Camioneta,Materiales Construcción,180.5,22,3.64,Cancelado
+LOG-4500,Armenia,Tractomula,Materiales Construcción,78.5,52,22.47,A Tiempo
+LOG-4501,Ibagué,Furgón,Electrónica,120,14,17.26,A Tiempo
+LOG-4502,Cali,Furgón,Textiles,120,8.5,13.29,Retrasado
+LOG-4503,Cali,Camión Mediano,Alimentos,78.5,14,7.23,Cancelado
+LOG-4504,Cali,Camioneta,Textiles,120,22,1.12,A Tiempo
+LOG-4505,Armenia,Camioneta,Alimentos,260,14,13.93,A Tiempo
+LOG-4506,Ibagué,Camión Mediano,Alimentos,120,14,6.13,A Tiempo
+LOG-4507,Ibagué,Tractomula,Alimentos,,8.5,15.89,Cancelado
+LOG-4508,Pereira,Camión Mediano,Materiales Construcción,45,14,1.6,A Tiempo
+LOG-4509,Manizales,Camión Mediano,Materiales Construcción,,14,22.1,A Tiempo
+LOG-4510,Ibagué,Furgón,Alimentos,78.5,8.5,7.19,A Tiempo
+LOG-4511,Manizales,Furgón,Alimentos,45,22,2.21,A Tiempo
+LOG-4512,Pereira,Camioneta,Materiales Construcción,260,35.5,23.63,Retrasado
+LOG-4513,Ibagué,Furgón,Electrónica,45,35.5,20.19,A Tiempo
+LOG-4514,Manizales,Furgón,Textiles,45,22,20.88,Retrasado
+LOG-4515,Pereira,Furgón,Electrónica,180.5,22,16.16,A Tiempo
+LOG-4516,Pereira,Camioneta,Electrónica,450,35.5,22.58,Cancelado
+LOG-4517,Cali,Furgón,Alimentos,,22,12.75,A Tiempo
+LOG-4518,Manizales,Camioneta,Alimentos,45,8.5,8.15,A Tiempo
+LOG-4519,Manizales,Furgón,Electrónica,260,35.5,21.92,A Tiempo
+LOG-4520,Armenia,Camioneta,Electrónica,78.5,70,12.03,Cancelado
+LOG-4521,Pereira,Tractomula,Alimentos,78.5,14,2.25,Retrasado
+LOG-4522,Ibagué,Camión Mediano,Textiles,78.5,8.5,19.88,A Tiempo
+LOG-4523,Manizales,Furgón,Alimentos,260,35.5,1.81,A Tiempo
+LOG-4524,Manizales,Furgón,Textiles,120,8.5,6.43,A Tiempo
+LOG-4525,Manizales,Tractomula,Materiales Construcción,120,35.5,8.55,A Tiempo
+LOG-4526,Cali,Camioneta,Textiles,45,8.5,20.41,A Tiempo
+LOG-4527,Ibagué,Camioneta,Electrónica,120,14,15.36,Retrasado
+LOG-4528,Cali,Camioneta,Textiles,120,8.5,4.53,A Tiempo
+LOG-4529,Cali,Tractomula,Textiles,45,8.5,9.13,A Tiempo
+LOG-4530,Pereira,Camión Mediano,Textiles,78.5,14,12.1,A Tiempo
+LOG-4531,Cali,Tractomula,Textiles,180.5,35.5,4.89,A Tiempo
+LOG-4532,Ibagué,Camioneta,Alimentos,,14,7.41,A Tiempo
+LOG-4533,Ibagué,Camioneta,Electrónica,450,22,23.78,A Tiempo
+LOG-4534,Manizales,Camión Mediano,Alimentos,45,8.5,19.21,A Tiempo
+LOG-4535,Ibagué,Camioneta,Materiales Construcción,78.5,70,4.35,A Tiempo
+LOG-4536,Cali,Furgón,Textiles,78.5,22,15.19,Retrasado
+LOG-4537,Cali,Camioneta,Electrónica,78.5,35.5,21.88,Retrasado
+LOG-4538,Pereira,Furgón,Electrónica,78.5,22,2.42,A Tiempo
+LOG-4539,Ibagué,Camioneta,Textiles,45,14,5.6,A Tiempo
+LOG-4540,Cali,Tractomula,Textiles,260,,13.95,A Tiempo
+LOG-4541,Pereira,Furgón,Materiales Construcción,78.5,8.5,15.37,A Tiempo
+LOG-4542,Ibagué,Camión Mediano,Electrónica,,14,9.85,Retrasado
+LOG-4543,Pereira,Tractomula,Materiales Construcción,120,70,11.93,Cancelado
+LOG-4544,Pereira,Tractomula,Electrónica,310,35.5,14.28,Retrasado
+LOG-4545,Manizales,Tractomula,Electrónica,180.5,35.5,14.09,A Tiempo
+LOG-4546,Manizales,Camioneta,Electrónica,45,8.5,21.83,A Tiempo
+LOG-4547,Cali,Furgón,Electrónica,78.5,14,9.28,A Tiempo
+LOG-4548,Pereira,Furgón,Materiales Construcción,45,22,19.25,A Tiempo
+LOG-4549,Armenia,Camión Mediano,Alimentos,310,22,19.01,Cancelado
+LOG-4550,Manizales,Furgón,Electrónica,78.5,35.5,23.54,Retrasado
+LOG-4551,Ibagué,Furgón,Electrónica,78.5,22,22.33,A Tiempo
+LOG-4552,Pereira,Camión Mediano,Alimentos,120,52,19.36,A Tiempo
+LOG-4553,Cali,Camión Mediano,Electrónica,260,8.5,21.72,Retrasado
+LOG-4554,Manizales,Tractomula,Alimentos,310,52,12.22,Retrasado
+LOG-4555,Manizales,Tractomula,Alimentos,310,35.5,4.85,A Tiempo
+LOG-4556,Ibagué,Camioneta,Electrónica,180.5,70,18.47,A Tiempo
+LOG-4557,Ibagué,Camión Mediano,Textiles,180.5,35.5,21.6,A Tiempo
+LOG-4558,Cali,Camioneta,Textiles,180.5,22,4.5,A Tiempo
+LOG-4559,Cali,Camión Mediano,Materiales Construcción,310,22,6.48,Retrasado
+LOG-4560,Ibagué,Camión Mediano,Electrónica,120,14,2.95,Retrasado
+LOG-4561,Manizales,Tractomula,Alimentos,120,,15.18,A Tiempo
+LOG-4562,Armenia,Tractomula,Textiles,78.5,35.5,23.39,A Tiempo
+LOG-4563,Armenia,Camión Mediano,Textiles,78.5,8.5,19.03,A Tiempo
+LOG-4564,Cali,Camioneta,Materiales Construcción,180.5,22,20.49,A Tiempo
+LOG-4565,Manizales,Tractomula,Alimentos,78.5,52,19.62,A Tiempo
+LOG-4566,Armenia,Camión Mediano,Materiales Construcción,,22,23.83,A Tiempo
+LOG-4567,Ibagué,Tractomula,Textiles,78.5,22,6.81,A Tiempo
+LOG-4568,Manizales,Tractomula,Textiles,180.5,8.5,15.51,A Tiempo
+LOG-4569,Pereira,Tractomula,Textiles,78.5,22,9.81,A Tiempo
+LOG-4570,Ibagué,Camioneta,Alimentos,180.5,14,2.15,A Tiempo
+LOG-4571,Armenia,Tractomula,Alimentos,180.5,8.5,2.02,A Tiempo
+LOG-4572,Armenia,Camioneta,Alimentos,78.5,22,14.31,A Tiempo
+LOG-4573,Armenia,Camioneta,Materiales Construcción,45,14,10.36,Cancelado
+LOG-4574,Cali,Camioneta,Alimentos,78.5,8.5,12.09,A Tiempo
+LOG-4575,Armenia,Camioneta,Electrónica,78.5,8.5,18.59,A Tiempo
+LOG-4576,Pereira,Camión Mediano,Alimentos,,14,13.76,Retrasado
+LOG-4577,Cali,Tractomula,Alimentos,45,14,17.78,A Tiempo
+LOG-4578,Cali,Tractomula,Textiles,45,35.5,19.61,A Tiempo
+LOG-4579,Manizales,Furgón,Alimentos,78.5,8.5,6.21,A Tiempo
+LOG-4580,Cali,Camión Mediano,Materiales Construcción,78.5,22,17.34,A Tiempo
+LOG-4581,Manizales,Furgón,Textiles,310,8.5,8.75,A Tiempo
+LOG-4582,Manizales,Tractomula,Electrónica,260,8.5,8.56,Retrasado
+LOG-4583,Manizales,Furgón,Textiles,78.5,14,21.05,A Tiempo
+LOG-4584,Ibagué,Furgón,Electrónica,450,8.5,11.26,A Tiempo
+LOG-4585,Manizales,Furgón,Materiales Construcción,120,35.5,1.98,Retrasado
+LOG-4586,Manizales,Tractomula,Electrónica,180.5,22,23.9,A Tiempo
+LOG-4587,Ibagué,Camión Mediano,Materiales Construcción,120,8.5,13.06,A Tiempo
+LOG-4588,Armenia,Tractomula,Materiales Construcción,260,14,12.06,A Tiempo
+LOG-4589,Armenia,Camioneta,Textiles,180.5,22,11.37,Retrasado
+LOG-4590,Ibagué,Camión Mediano,Electrónica,260,70,18.41,Retrasado
+LOG-4591,Manizales,Camioneta,Alimentos,78.5,8.5,1.13,A Tiempo
+LOG-4592,Cali,Tractomula,Materiales Construcción,,14,2.48,A Tiempo
+LOG-4593,Ibagué,Furgón,Textiles,78.5,14,17.41,Retrasado
+LOG-4594,Ibagué,Camioneta,Electrónica,78.5,35.5,1.45,Retrasado
+LOG-4595,Pereira,Furgón,Alimentos,78.5,8.5,7.33,A Tiempo
+LOG-4596,Cali,Tractomula,Alimentos,78.5,52,2.96,A Tiempo
+LOG-4597,Cali,Furgón,Electrónica,260,22,1.08,A Tiempo
+LOG-4598,Pereira,Camión Mediano,Electrónica,78.5,22,15.22,Retrasado
+LOG-4599,Manizales,Camión Mediano,Alimentos,180.5,35.5,1.35,A Tiempo
+LOG-4600,Pereira,Furgón,Textiles,180.5,,14.94,A Tiempo
+LOG-4601,Armenia,Camioneta,Materiales Construcción,260,35.5,19.27,Retrasado
+LOG-4602,Cali,Camión Mediano,Electrónica,260,14,7.88,A Tiempo
+LOG-4603,Manizales,Camioneta,Textiles,120,70,21.64,A Tiempo
+LOG-4604,Cali,Camión Mediano,Textiles,260,14,20.74,A Tiempo
+LOG-4605,Ibagué,Tractomula,Electrónica,78.5,35.5,6.32,A Tiempo
+LOG-4606,Manizales,Camión Mediano,Textiles,120,22,12.43,A Tiempo
+LOG-4607,Manizales,Camión Mediano,Textiles,120,14,5.69,A Tiempo
+LOG-4608,Manizales,Camioneta,Materiales Construcción,,8.5,1.25,A Tiempo
+LOG-4609,Cali,Camioneta,Materiales Construcción,78.5,22,12.08,Cancelado
+LOG-4610,Armenia,Camión Mediano,Materiales Construcción,310,14,22.26,A Tiempo
+LOG-4611,Cali,Tractomula,Materiales Construcción,,,10.09,A Tiempo
+LOG-4612,Manizales,Furgón,Textiles,120,35.5,2.45,Cancelado
+LOG-4613,Manizales,Furgón,Textiles,180.5,14,10.18,A Tiempo
+LOG-4614,Pereira,Camioneta,Textiles,260,8.5,17.09,A Tiempo
+LOG-4615,Manizales,Camión Mediano,Electrónica,78.5,22,7.38,Retrasado
+LOG-4616,Cali,Camioneta,Alimentos,310,8.5,9.96,A Tiempo
+LOG-4617,Manizales,Furgón,Electrónica,180.5,8.5,6.04,A Tiempo
+LOG-4618,Armenia,Camión Mediano,Materiales Construcción,260,14,6.89,A Tiempo
+LOG-4619,Manizales,Camión Mediano,Alimentos,120,8.5,4.53,A Tiempo
+LOG-4620,Pereira,Camión Mediano,Electrónica,450,8.5,4.01,A Tiempo
+LOG-4621,Armenia,Camión Mediano,Materiales Construcción,260,70,2.85,A Tiempo
+LOG-4622,Pereira,Camión Mediano,Electrónica,120,22,12.13,Retrasado
+LOG-4623,Pereira,Camión Mediano,Textiles,180.5,14,23.45,Retrasado
+LOG-4624,Pereira,Tractomula,Electrónica,120,8.5,0.61,Retrasado
+LOG-4625,Manizales,Camión Mediano,Alimentos,180.5,22,21.2,A Tiempo
+LOG-4626,Manizales,Tractomula,Electrónica,120,14,24.98,A Tiempo
+LOG-4627,Pereira,Furgón,Textiles,120,52,13.43,A Tiempo
+LOG-4628,Armenia,Furgón,Electrónica,260,8.5,6.82,Retrasado
+LOG-4629,Ibagué,Furgón,Electrónica,120,22,13.28,Retrasado
+LOG-4630,Pereira,Tractomula,Electrónica,180.5,14,16.17,Retrasado
+LOG-4631,Cali,Camioneta,Alimentos,310,35.5,4.06,A Tiempo
+LOG-4632,Armenia,Tractomula,Materiales Construcción,120,8.5,7.98,A Tiempo
+LOG-4633,Ibagué,Camión Mediano,Electrónica,78.5,70,19.09,A Tiempo
+LOG-4634,Pereira,Furgón,Alimentos,45,22,20.98,Cancelado
+LOG-4635,Pereira,Tractomula,Electrónica,180.5,35.5,22.4,Retrasado
+LOG-4636,Armenia,Camioneta,Alimentos,310,,7.91,A Tiempo
+LOG-4637,Ibagué,Camioneta,Alimentos,45,14,11.6,A Tiempo
+LOG-4638,Cali,Camión Mediano,Materiales Construcción,,70,4.27,A Tiempo
+LOG-4639,Ibagué,Camioneta,Textiles,120,22,21.65,A Tiempo
+LOG-4640,Cali,Camión Mediano,Materiales Construcción,120,8.5,3.17,A Tiempo
+LOG-4641,Manizales,Tractomula,Alimentos,180.5,22,21.77,Cancelado
+LOG-4642,Ibagué,Furgón,Alimentos,260,8.5,22.54,Retrasado
+LOG-4643,Manizales,Tractomula,Materiales Construcción,45,22,8.02,A Tiempo
+LOG-4644,Pereira,Camioneta,Materiales Construcción,450,14,22.86,Retrasado
+LOG-4645,Cali,Tractomula,Materiales Construcción,45,,14.5,A Tiempo
+LOG-4646,Armenia,Furgón,Alimentos,45,14,14.07,Retrasado
+LOG-4647,Pereira,Camión Mediano,Materiales Construcción,45,14,12.57,A Tiempo
+LOG-4648,Armenia,Tractomula,Textiles,260,35.5,2.54,Retrasado
+LOG-4649,Armenia,Camioneta,Electrónica,78.5,14,19.12,Cancelado
+LOG-4650,Armenia,Camión Mediano,Materiales Construcción,120,22,7.34,A Tiempo
+LOG-4651,Armenia,Furgón,Alimentos,260,14,15.71,Cancelado
+LOG-4652,Pereira,Camioneta,Alimentos,78.5,8.5,0.77,Cancelado
+LOG-4653,Manizales,Camioneta,Textiles,45,22,11.11,Retrasado
+LOG-4654,Pereira,Camión Mediano,Electrónica,310,8.5,7.16,Retrasado
+LOG-4655,Armenia,Furgón,Textiles,180.5,22,5.95,A Tiempo
+LOG-4656,Ibagué,Camioneta,Electrónica,120,70,7.19,A Tiempo
+LOG-4657,Cali,Camión Mediano,Alimentos,,35.5,17.1,A Tiempo
+LOG-4658,Ibagué,Furgón,Textiles,45,70,12.88,A Tiempo
+LOG-4659,Pereira,Camioneta,Alimentos,180.5,22,5.89,A Tiempo
+LOG-4660,Pereira,Furgón,Textiles,120,52,13.82,A Tiempo
+LOG-4661,Manizales,Camión Mediano,Textiles,45,8.5,10.52,A Tiempo
+LOG-4662,Manizales,Camión Mediano,Electrónica,78.5,8.5,5.02,A Tiempo
+LOG-4663,Cali,Camión Mediano,Textiles,180.5,8.5,6.08,A Tiempo
+LOG-4664,Pereira,Camión Mediano,Materiales Construcción,180.5,35.5,12.73,Retrasado
+LOG-4665,Pereira,Camioneta,Textiles,260,14,17.73,Cancelado
+LOG-4666,Cali,Camioneta,Materiales Construcción,78.5,70,22.74,Retrasado
+LOG-4667,Manizales,Tractomula,Electrónica,180.5,8.5,12.08,A Tiempo
+LOG-4668,Armenia,Camión Mediano,Alimentos,45,14,21.98,A Tiempo
+LOG-4669,Manizales,Camión Mediano,Alimentos,450,22,20.46,A Tiempo
+LOG-4670,Ibagué,Camión Mediano,Alimentos,78.5,52,7.43,Retrasado
+LOG-4671,Ibagué,Tractomula,Alimentos,120,14,21.33,A Tiempo
+LOG-4672,Manizales,Tractomula,Textiles,78.5,8.5,22.52,A Tiempo
+LOG-4673,Manizales,Camioneta,Materiales Construcción,310,35.5,1.92,A Tiempo
+LOG-4674,Cali,Furgón,Electrónica,260,35.5,14.95,A Tiempo
+LOG-4675,Manizales,Tractomula,Alimentos,45,14,15.41,A Tiempo
+LOG-4676,Cali,Camioneta,Textiles,450,35.5,9.65,A Tiempo
+LOG-4677,Manizales,Camioneta,Alimentos,260,8.5,10.05,Retrasado
+LOG-4678,Pereira,Camión Mediano,Electrónica,45,22,2.3,A Tiempo
+LOG-4679,Ibagué,Tractomula,Electrónica,78.5,35.5,12.45,Retrasado
+LOG-4680,Ibagué,Tractomula,Alimentos,450,22,2.93,A Tiempo
+LOG-4681,Ibagué,Camión Mediano,Materiales Construcción,310,52,5.6,A Tiempo
+LOG-4682,Cali,Furgón,Alimentos,45,14,22.45,A Tiempo
+LOG-4683,Ibagué,Tractomula,Materiales Construcción,78.5,52,17.08,Retrasado
+LOG-4684,Pereira,Furgón,Textiles,78.5,14,17.57,A Tiempo
+LOG-4685,Cali,Camión Mediano,Electrónica,120,8.5,19.65,A Tiempo
+LOG-4686,Armenia,Camión Mediano,Electrónica,45,22,13.91,Cancelado
+LOG-4687,Cali,Camión Mediano,Materiales Construcción,78.5,70,8.96,A Tiempo
+LOG-4688,Cali,Camión Mediano,Materiales Construcción,45,22,1.86,A Tiempo
+LOG-4689,Armenia,Camión Mediano,Textiles,180.5,22,7.26,Retrasado
+LOG-4690,Ibagué,Furgón,Textiles,180.5,14,16.99,A Tiempo
+LOG-4691,Pereira,Tractomula,Textiles,120,14,8.77,Retrasado
+LOG-4692,Armenia,Camioneta,Materiales Construcción,45,8.5,21.74,Cancelado
+LOG-4693,Ibagué,Camión Mediano,Textiles,180.5,8.5,12.24,A Tiempo
+LOG-4694,Ibagué,Tractomula,Textiles,78.5,52,4.91,A Tiempo
+LOG-4695,Armenia,Camión Mediano,Textiles,45,14,9.41,A Tiempo
+LOG-4696,Pereira,Camión Mediano,Textiles,310,14,15.16,Cancelado
+LOG-4697,Cali,Camión Mediano,Textiles,78.5,22,17.03,A Tiempo
+LOG-4698,Pereira,Furgón,Alimentos,78.5,8.5,21.39,Retrasado
+LOG-4699,Pereira,Camioneta,Alimentos,120,14,16.92,A Tiempo
+LOG-4700,Manizales,Furgón,Electrónica,45,70,19.45,A Tiempo
+LOG-4701,Cali,Furgón,Textiles,45,70,10.31,A Tiempo
+LOG-4702,Cali,Tractomula,Materiales Construcción,310,8.5,24.25,A Tiempo
+LOG-4703,Armenia,Tractomula,Materiales Construcción,120,70,21.92,A Tiempo
+LOG-4704,Ibagué,Camioneta,Textiles,78.5,35.5,17.29,Retrasado
+LOG-4705,Ibagué,Furgón,Materiales Construcción,45,22,17.26,A Tiempo
+LOG-4706,Cali,Camioneta,Textiles,310,14,17.45,Retrasado
+LOG-4707,Cali,Furgón,Materiales Construcción,45,8.5,8.95,A Tiempo
+LOG-4708,Pereira,Furgón,Textiles,120,8.5,16.1,Retrasado
+LOG-4709,Cali,Tractomula,Alimentos,,52,17.97,A Tiempo
+LOG-4710,Armenia,Tractomula,Electrónica,450,8.5,16.67,A Tiempo
+LOG-4711,Armenia,Camioneta,Materiales Construcción,260,70,23.42,A Tiempo
+LOG-4712,Ibagué,Furgón,Alimentos,180.5,14,24.26,Retrasado
+LOG-4713,Ibagué,Camioneta,Alimentos,78.5,8.5,18.55,A Tiempo
+LOG-4714,Cali,Camión Mediano,Alimentos,450,35.5,10.22,Retrasado
+LOG-4715,Pereira,Furgón,Textiles,120,14,19.61,Retrasado
+LOG-4716,Armenia,Camión Mediano,Alimentos,450,14,8.86,Retrasado
+LOG-4717,Armenia,Furgón,Alimentos,450,14,8.57,A Tiempo
+LOG-4718,Cali,Camión Mediano,Electrónica,78.5,52,0.72,A Tiempo
+LOG-4719,Ibagué,Camioneta,Textiles,45,,19.15,Retrasado
+LOG-4720,Armenia,Tractomula,Materiales Construcción,260,,15.85,Cancelado
+LOG-4721,Manizales,Camioneta,Textiles,120,22,16.03,A Tiempo
+LOG-4722,Armenia,Camioneta,Alimentos,45,8.5,9.06,Retrasado
+LOG-4723,Cali,Camioneta,Electrónica,78.5,35.5,22.5,Retrasado
+LOG-4724,Ibagué,Furgón,Electrónica,120,35.5,1.97,Retrasado
+LOG-4725,Cali,Furgón,Textiles,180.5,35.5,10.47,A Tiempo
+LOG-4726,Manizales,Camioneta,Materiales Construcción,45,8.5,15.33,A Tiempo
+LOG-4727,Manizales,Furgón,Materiales Construcción,450,22,3.43,A Tiempo
+LOG-4728,Ibagué,Furgón,Electrónica,120,22,18.49,A Tiempo
+LOG-4729,Manizales,Camión Mediano,Textiles,45,52,6.85,A Tiempo
+LOG-4730,Ibagué,Furgón,Electrónica,78.5,8.5,10.61,A Tiempo
+LOG-4731,Cali,Camión Mediano,Textiles,78.5,14,19.75,A Tiempo
+LOG-4732,Cali,Camioneta,Electrónica,310,14,4.61,A Tiempo
+LOG-4733,Armenia,Camioneta,Electrónica,45,35.5,15.33,A Tiempo
+LOG-4734,Armenia,Camioneta,Materiales Construcción,180.5,14,7.27,Cancelado
+LOG-4735,Cali,Camión Mediano,Electrónica,180.5,8.5,8.39,Cancelado
+LOG-4736,Pereira,Tractomula,Textiles,180.5,22,11.01,A Tiempo
+LOG-4737,Ibagué,Furgón,Materiales Construcción,120,14,10.95,Retrasado
+LOG-4738,Cali,Furgón,Materiales Construcción,310,,15.48,A Tiempo
+LOG-4739,Cali,Tractomula,Electrónica,,35.5,3.33,A Tiempo
+LOG-4740,Armenia,Tractomula,Alimentos,180.5,14,21.3,Retrasado
+LOG-4741,Armenia,Tractomula,Alimentos,,8.5,21.01,Retrasado
+LOG-4742,Manizales,Camioneta,Materiales Construcción,180.5,22,8.75,Retrasado
+LOG-4743,Manizales,Furgón,Materiales Construcción,45,52,5.01,A Tiempo
+LOG-4744,Pereira,Camioneta,Alimentos,78.5,35.5,8.37,A Tiempo
+LOG-4745,Cali,Camioneta,Alimentos,260,8.5,8.47,A Tiempo
+LOG-4746,Armenia,Camión Mediano,Electrónica,450,14,8.48,A Tiempo
+LOG-4747,Cali,Tractomula,Alimentos,78.5,,17.22,A Tiempo
+LOG-4748,Cali,Camión Mediano,Textiles,310,22,23.38,A Tiempo
+LOG-4749,Manizales,Tractomula,Alimentos,78.5,35.5,13.69,Retrasado
+LOG-4750,Pereira,Tractomula,Textiles,120,22,9.43,Retrasado
+LOG-4751,Ibagué,Camión Mediano,Alimentos,260,14,20.91,A Tiempo
+LOG-4752,Armenia,Camioneta,Alimentos,180.5,22,1.83,A Tiempo
+LOG-4753,Pereira,Furgón,Electrónica,180.5,8.5,24.66,Retrasado
+LOG-4754,Cali,Camión Mediano,Textiles,120,8.5,4.76,Retrasado
+LOG-4755,Pereira,Tractomula,Alimentos,45,22,8.12,Cancelado
+LOG-4756,Cali,Tractomula,Textiles,180.5,22,4.65,A Tiempo
+LOG-4757,Manizales,Furgón,Alimentos,120,,21.93,Retrasado
+LOG-4758,Manizales,Furgón,Electrónica,180.5,22,7.67,A Tiempo
+LOG-4759,Pereira,Furgón,Textiles,180.5,22,20.33,Retrasado
+LOG-4760,Manizales,Tractomula,Electrónica,120,8.5,10.7,Retrasado
+LOG-4761,Ibagué,Tractomula,Materiales Construcción,78.5,8.5,1.96,Cancelado
+LOG-4762,Ibagué,Furgón,Alimentos,45,22,2.25,A Tiempo
+LOG-4763,Cali,Camioneta,Materiales Construcción,260,14,20.73,A Tiempo
+LOG-4764,Armenia,Tractomula,Textiles,45,22,3.18,Retrasado
+LOG-4765,Armenia,Camioneta,Alimentos,45,,7.63,A Tiempo
+LOG-4766,Manizales,Camioneta,Textiles,45,70,15.49,A Tiempo
+LOG-4767,Ibagué,Tractomula,Textiles,310,22,7.19,A Tiempo
+LOG-4768,Pereira,Camión Mediano,Electrónica,120,14,1.35,Cancelado
+LOG-4769,Manizales,Camión Mediano,Materiales Construcción,45,52,17.62,A Tiempo
+LOG-4770,Armenia,Furgón,Materiales Construcción,180.5,14,3.86,Retrasado
+LOG-4771,Manizales,Furgón,Alimentos,450,14,18.09,Retrasado
+LOG-4772,Armenia,Furgón,Textiles,260,14,15.22,A Tiempo
+LOG-4773,Ibagué,Camioneta,Alimentos,180.5,8.5,13.08,A Tiempo
+LOG-4774,Pereira,Tractomula,Alimentos,78.5,22,4.33,A Tiempo
+LOG-4775,Cali,Furgón,Textiles,78.5,14,12.7,A Tiempo
+LOG-4776,Ibagué,Camión Mediano,Textiles,180.5,14,1.12,Retrasado
+LOG-4777,Ibagué,Camión Mediano,Textiles,260,70,1.08,Retrasado
+LOG-4778,Ibagué,Camioneta,Materiales Construcción,78.5,14,15.12,Retrasado
+LOG-4779,Cali,Camión Mediano,Alimentos,120,14,16.69,Cancelado
+LOG-4780,Armenia,Camión Mediano,Materiales Construcción,78.5,,20.99,A Tiempo
+LOG-4781,Ibagué,Camión Mediano,Electrónica,78.5,70,19.1,A Tiempo
+LOG-4782,Armenia,Tractomula,Alimentos,260,,16.68,A Tiempo
+LOG-4783,Manizales,Furgón,Alimentos,78.5,22,18.96,Cancelado
+LOG-4784,Cali,Camioneta,Materiales Construcción,120,14,14.96,A Tiempo
+LOG-4785,Armenia,Camión Mediano,Textiles,78.5,35.5,2.71,Retrasado
+LOG-4786,Pereira,Tractomula,Alimentos,45,35.5,16.76,A Tiempo
+LOG-4787,Armenia,Furgón,Textiles,260,14,11.67,A Tiempo
+LOG-4788,Cali,Camioneta,Materiales Construcción,260,14,6.84,A Tiempo
+LOG-4789,Armenia,Tractomula,Alimentos,45,14,11.32,A Tiempo
+LOG-4790,Manizales,Camión Mediano,Electrónica,260,22,2.28,A Tiempo
+LOG-4791,Manizales,Furgón,Alimentos,260,8.5,9.51,A Tiempo
+LOG-4792,Armenia,Tractomula,Electrónica,260,22,17.73,A Tiempo
+LOG-4793,Pereira,Camioneta,Materiales Construcción,450,14,13.37,A Tiempo
+LOG-4794,Ibagué,Camioneta,Materiales Construcción,78.5,14,20.84,A Tiempo
+LOG-4795,Cali,Tractomula,Textiles,310,14,23.35,Retrasado
+LOG-4796,Ibagué,Furgón,Textiles,45,14,10.64,A Tiempo
+LOG-4797,Cali,Camioneta,Alimentos,120,70,15.39,Retrasado
+LOG-4798,Ibagué,Camión Mediano,Electrónica,180.5,8.5,2.24,Cancelado
+LOG-4799,Pereira,Camión Mediano,Textiles,45,14,24.3,A Tiempo
+LOG-4800,Armenia,Camión Mediano,Materiales Construcción,260,14,23.14,A Tiempo
+LOG-4801,Manizales,Furgón,Textiles,260,8.5,2.89,A Tiempo
+LOG-4802,Pereira,Camioneta,Textiles,45,70,21.21,Retrasado
+LOG-4803,Cali,Furgón,Alimentos,180.5,35.5,8.48,A Tiempo
+LOG-4804,Armenia,Tractomula,Alimentos,78.5,35.5,15.58,A Tiempo
+LOG-4805,Ibagué,Camioneta,Electrónica,45,35.5,14.44,Cancelado
+LOG-4806,Cali,Camión Mediano,Materiales Construcción,120,14,13.35,Cancelado
+LOG-4807,Armenia,Camión Mediano,Alimentos,260,22,14.58,A Tiempo
+LOG-4808,Ibagué,Camión Mediano,Materiales Construcción,120,14,7.52,Retrasado
+LOG-4809,Ibagué,Camioneta,Electrónica,260,8.5,11.69,A Tiempo
+LOG-4810,Manizales,Furgón,Alimentos,120,8.5,20.04,Retrasado
+LOG-4811,Armenia,Camioneta,Alimentos,,14,8.71,A Tiempo
+LOG-4812,Manizales,Tractomula,Textiles,180.5,8.5,19.65,A Tiempo
+LOG-4813,Cali,Camión Mediano,Materiales Construcción,180.5,14,15.87,A Tiempo
+LOG-4814,Cali,Camioneta,Textiles,180.5,22,8.87,A Tiempo
+LOG-4815,Ibagué,Furgón,Materiales Construcción,45,14,1.11,A Tiempo
+LOG-4816,Pereira,Camioneta,Materiales Construcción,78.5,52,17.34,Retrasado
+LOG-4817,Armenia,Furgón,Textiles,120,22,6.93,A Tiempo
+LOG-4818,Ibagué,Camioneta,Electrónica,78.5,35.5,17.64,A Tiempo
+LOG-4819,Pereira,Camión Mediano,Materiales Construcción,120,35.5,12.97,A Tiempo
+LOG-4820,Armenia,Camión Mediano,Alimentos,78.5,35.5,15.75,A Tiempo
+LOG-4821,Cali,Furgón,Alimentos,310,70,23.86,A Tiempo
+LOG-4822,Pereira,Furgón,Textiles,78.5,,13.11,A Tiempo
+LOG-4823,Armenia,Camioneta,Materiales Construcción,260,52,11.92,Cancelado
+LOG-4824,Ibagué,Camioneta,Alimentos,120,52,4.74,A Tiempo
+LOG-4825,Pereira,Camión Mediano,Electrónica,120,14,18.99,A Tiempo
+LOG-4826,Pereira,Camión Mediano,Electrónica,78.5,22,24.6,A Tiempo
+LOG-4827,Ibagué,Furgón,Materiales Construcción,180.5,35.5,0.77,A Tiempo
+LOG-4828,Ibagué,Camioneta,Alimentos,120,35.5,10.7,Retrasado
+LOG-4829,Pereira,Camión Mediano,Materiales Construcción,450,,18.32,A Tiempo
+LOG-4830,Manizales,Furgón,Electrónica,310,22,12.64,Retrasado
+LOG-4831,Pereira,Camioneta,Alimentos,45,14,19.25,A Tiempo
+LOG-4832,Cali,Tractomula,Alimentos,78.5,22,2.24,A Tiempo
+LOG-4833,Pereira,Furgón,Materiales Construcción,120,22,13.79,Retrasado
+LOG-4834,Cali,Camioneta,Alimentos,120,,21.56,Cancelado
+LOG-4835,Pereira,Camión Mediano,Textiles,450,52,23.33,A Tiempo
+LOG-4836,Pereira,Tractomula,Textiles,180.5,8.5,4.8,A Tiempo
+LOG-4837,Cali,Tractomula,Electrónica,180.5,22,16.98,A Tiempo
+LOG-4838,Manizales,Furgón,Electrónica,260,52,7.97,A Tiempo
+LOG-4839,Pereira,Furgón,Electrónica,45,14,24.86,A Tiempo
+LOG-4840,Cali,Furgón,Textiles,45,22,12.54,Cancelado
+LOG-4841,Cali,Camioneta,Alimentos,45,52,16.19,A Tiempo
+LOG-4842,Ibagué,Tractomula,Alimentos,180.5,14,2.37,A Tiempo
+LOG-4843,Cali,Camión Mediano,Materiales Construcción,260,22,3.65,A Tiempo
+LOG-4844,Manizales,Camión Mediano,Materiales Construcción,78.5,,20.33,A Tiempo
+LOG-4845,Manizales,Furgón,Alimentos,450,8.5,10.51,Cancelado
+LOG-4846,Ibagué,Camioneta,Electrónica,450,14,11.1,A Tiempo
+LOG-4847,Ibagué,Camión Mediano,Alimentos,120,22,13.56,A Tiempo
+LOG-4848,Armenia,Furgón,Materiales Construcción,260,22,8.38,A Tiempo
+LOG-4849,Armenia,Furgón,Electrónica,45,35.5,9.42,Retrasado
+LOG-4850,Cali,Camioneta,Electrónica,180.5,35.5,15.83,A Tiempo
+LOG-4851,Cali,Furgón,Alimentos,45,70,12.32,A Tiempo
+LOG-4852,Ibagué,Furgón,Alimentos,260,8.5,3.01,A Tiempo
+LOG-4853,Pereira,Camioneta,Alimentos,260,8.5,12.25,A Tiempo
+LOG-4854,Ibagué,Camioneta,Materiales Construcción,78.5,35.5,19.74,A Tiempo
+LOG-4855,Cali,Camioneta,Materiales Construcción,180.5,14,12.45,A Tiempo
+LOG-4856,Pereira,Camión Mediano,Electrónica,45,14,2.44,A Tiempo
+LOG-4857,Ibagué,Tractomula,Alimentos,120,22,14.3,A Tiempo
+LOG-4858,Ibagué,Furgón,Materiales Construcción,120,52,6.97,A Tiempo
+LOG-4859,Pereira,Camión Mediano,Textiles,78.5,52,9.45,A Tiempo
+LOG-4860,Manizales,Furgón,Textiles,45,,1.01,Retrasado
+LOG-4861,Ibagué,Furgón,Textiles,450,22,23.55,A Tiempo
+LOG-4862,Pereira,Tractomula,Textiles,310,14,15.22,A Tiempo
+LOG-4863,Manizales,Furgón,Alimentos,180.5,14,1.71,Retrasado
+LOG-4864,Armenia,Furgón,Alimentos,180.5,14,6.86,A Tiempo
+LOG-4865,Ibagué,Camión Mediano,Textiles,180.5,22,6.75,Retrasado
+LOG-4866,Pereira,Furgón,Materiales Construcción,180.5,22,8.66,A Tiempo
+LOG-4867,Pereira,Tractomula,Alimentos,78.5,14,16.32,A Tiempo
+LOG-4868,Manizales,Camioneta,Materiales Construcción,78.5,22,9.13,A Tiempo
+LOG-4869,Armenia,Camioneta,Textiles,120,,17.95,Retrasado
+LOG-4870,Cali,Tractomula,Textiles,120,22,20.52,A Tiempo
+LOG-4871,Pereira,Furgón,Alimentos,180.5,70,10.43,Retrasado
+LOG-4872,Manizales,Camión Mediano,Textiles,120,70,5.45,Retrasado
+LOG-4873,Manizales,Camión Mediano,Textiles,180.5,22,9.07,Retrasado
+LOG-4874,Armenia,Furgón,Textiles,120,22,1.83,Retrasado
+LOG-4875,Pereira,Furgón,Alimentos,120,35.5,20.9,A Tiempo
+LOG-4876,Cali,Camión Mediano,Textiles,78.5,35.5,11.79,A Tiempo
+LOG-4877,Ibagué,Furgón,Electrónica,,22,22.13,A Tiempo
+LOG-4878,Ibagué,Camión Mediano,Alimentos,260,22,4.52,A Tiempo
+LOG-4879,Pereira,Furgón,Textiles,310,22,3.35,A Tiempo
+LOG-4880,Cali,Furgón,Alimentos,78.5,8.5,17.13,A Tiempo
+LOG-4881,Armenia,Camioneta,Materiales Construcción,180.5,14,5.23,A Tiempo
+LOG-4882,Pereira,Camión Mediano,Electrónica,120,52,19.5,A Tiempo
+LOG-4883,Ibagué,Camión Mediano,Materiales Construcción,260,22,22.71,Retrasado
+LOG-4884,Pereira,Camión Mediano,Electrónica,310,52,14.65,A Tiempo
+LOG-4885,Ibagué,Camión Mediano,Textiles,120,14,5.69,A Tiempo
+LOG-4886,Manizales,Camión Mediano,Textiles,260,22,12.19,A Tiempo
+LOG-4887,Manizales,Tractomula,Electrónica,120,22,4.2,A Tiempo
+LOG-4888,Pereira,Furgón,Electrónica,78.5,8.5,23.58,A Tiempo
+LOG-4889,Cali,Furgón,Textiles,310,8.5,7.43,A Tiempo
+LOG-4890,Cali,Furgón,Materiales Construcción,120,35.5,10.04,A Tiempo
+LOG-4891,Pereira,Camioneta,Electrónica,120,14,19.49,Retrasado
+LOG-4892,Pereira,Furgón,Alimentos,310,14,10.6,A Tiempo
+LOG-4893,Manizales,Camioneta,Alimentos,45,,11.33,A Tiempo
+LOG-4894,Ibagué,Tractomula,Textiles,260,8.5,17.99,A Tiempo
+LOG-4895,Pereira,Furgón,Alimentos,180.5,70,9.06,Retrasado
+LOG-4896,Manizales,Tractomula,Alimentos,78.5,,6.79,A Tiempo
+LOG-4897,Ibagué,Furgón,Textiles,,22,18.66,A Tiempo
+LOG-4898,Manizales,Tractomula,Electrónica,120,14,5.57,A Tiempo
+LOG-4899,Armenia,Tractomula,Textiles,120,52,16.42,Retrasado
+LOG-4900,Armenia,Tractomula,Electrónica,78.5,14,19.87,A Tiempo
+LOG-4901,Manizales,Tractomula,Textiles,260,22,23.14,A Tiempo
+LOG-4902,Pereira,Camión Mediano,Alimentos,180.5,35.5,20.99,Retrasado
+LOG-4903,Ibagué,Camioneta,Alimentos,450,14,22.92,A Tiempo
+LOG-4904,Ibagué,Camioneta,Electrónica,180.5,35.5,22.58,A Tiempo
+LOG-4905,Cali,Tractomula,Materiales Construcción,78.5,8.5,18.08,A Tiempo
+LOG-4906,Cali,Camión Mediano,Materiales Construcción,78.5,70,2.03,Retrasado
+LOG-4907,Armenia,Camioneta,Textiles,78.5,35.5,10.23,Retrasado
+LOG-4908,Manizales,Tractomula,Alimentos,180.5,,13.64,Retrasado
+LOG-4909,Ibagué,Camioneta,Textiles,310,8.5,11.17,A Tiempo
+LOG-4910,Pereira,Camión Mediano,Electrónica,78.5,52,8.07,A Tiempo
+LOG-4911,Armenia,Furgón,Materiales Construcción,120,8.5,14.17,A Tiempo
+LOG-4912,Pereira,Camioneta,Electrónica,310,22,3.63,Retrasado
+LOG-4913,Cali,Furgón,Materiales Construcción,45,14,4.56,Cancelado
+LOG-4914,Pereira,Camioneta,Materiales Construcción,45,14,8.17,Retrasado
+LOG-4915,Manizales,Camión Mediano,Materiales Construcción,,8.5,3.54,A Tiempo
+LOG-4916,Cali,Camión Mediano,Textiles,45,8.5,12.23,A Tiempo
+LOG-4917,Pereira,Tractomula,Textiles,78.5,8.5,6.05,A Tiempo
+LOG-4918,Pereira,Furgón,Electrónica,120,8.5,9.29,A Tiempo
+LOG-4919,Ibagué,Furgón,Textiles,45,8.5,20.27,A Tiempo
+LOG-4920,Cali,Furgón,Alimentos,45,8.5,8.35,Retrasado
+LOG-4921,Armenia,Camioneta,Materiales Construcción,260,8.5,6.25,A Tiempo
+LOG-4922,Cali,Tractomula,Materiales Construcción,,8.5,21.76,A Tiempo
+LOG-4923,Pereira,Camioneta,Alimentos,260,14,24.08,A Tiempo
+LOG-4924,Pereira,Tractomula,Textiles,310,8.5,1.83,A Tiempo
+LOG-4925,Manizales,Furgón,Textiles,45,70,6.61,A Tiempo
+LOG-4926,Armenia,Furgón,Alimentos,45,14,23.18,A Tiempo
+LOG-4927,Ibagué,Camioneta,Materiales Construcción,78.5,70,18.02,A Tiempo
+LOG-4928,Armenia,Furgón,Textiles,260,14,4.77,Retrasado
+LOG-4929,Armenia,Furgón,Electrónica,120,22,19.67,A Tiempo
+LOG-4930,Armenia,Camión Mediano,Alimentos,78.5,35.5,0.61,Retrasado
+LOG-4931,Cali,Tractomula,Materiales Construcción,45,8.5,1.44,A Tiempo
+LOG-4932,Pereira,Tractomula,Materiales Construcción,120,14,18.27,A Tiempo
+LOG-4933,Manizales,Tractomula,Electrónica,78.5,22,18.75,A Tiempo
+LOG-4934,Armenia,Tractomula,Textiles,260,14,17.67,A Tiempo
+LOG-4935,Armenia,Camión Mediano,Electrónica,45,22,21.1,A Tiempo
+LOG-4936,Armenia,Tractomula,Alimentos,45,52,17.56,A Tiempo
+LOG-4937,Manizales,Tractomula,Electrónica,180.5,14,20.39,A Tiempo
+LOG-4938,Armenia,Camión Mediano,Alimentos,120,,17.11,Cancelado
+LOG-4939,Ibagué,Camioneta,Materiales Construcción,45,8.5,20.61,Retrasado
+LOG-4940,Cali,Tractomula,Materiales Construcción,120,14,22.17,Retrasado
+LOG-4941,Ibagué,Camión Mediano,Materiales Construcción,78.5,52,17.91,A Tiempo
+LOG-4942,Manizales,Camioneta,Alimentos,78.5,14,23.74,Retrasado
+LOG-4943,Manizales,Camión Mediano,Textiles,120,35.5,12.69,A Tiempo
+LOG-4944,Cali,Camión Mediano,Electrónica,180.5,22,9.28,A Tiempo
+LOG-4945,Manizales,Camioneta,Textiles,78.5,8.5,8.22,A Tiempo
+LOG-4946,Cali,Furgón,Materiales Construcción,260,35.5,6.01,A Tiempo
+LOG-4947,Manizales,Furgón,Materiales Construcción,120,14,14.96,A Tiempo
+LOG-4948,Armenia,Furgón,Electrónica,120,14,2.51,Retrasado
+LOG-4949,Manizales,Furgón,Materiales Construcción,45,35.5,22.96,A Tiempo
+LOG-4950,Ibagué,Furgón,Alimentos,180.5,70,16.71,A Tiempo
+LOG-4951,Manizales,Camión Mediano,Alimentos,180.5,8.5,1.42,Cancelado
+LOG-4952,Cali,Camioneta,Alimentos,78.5,70,19.78,A Tiempo
+LOG-4953,Cali,Furgón,Electrónica,45,35.5,21.52,Cancelado
+LOG-4954,Ibagué,Furgón,Electrónica,310,70,17.78,A Tiempo
+LOG-4955,Pereira,Furgón,Electrónica,45,22,22.4,A Tiempo
+LOG-4956,Manizales,Tractomula,Materiales Construcción,120,8.5,14.01,A Tiempo
+LOG-4957,Cali,Tractomula,Textiles,45,,6,Retrasado
+LOG-4958,Ibagué,Camión Mediano,Materiales Construcción,78.5,22,10.07,A Tiempo
+LOG-4959,Ibagué,Furgón,Electrónica,260,22,15.23,A Tiempo
+LOG-4960,Pereira,Tractomula,Electrónica,120,14,5.63,A Tiempo
+LOG-4961,Cali,Furgón,Materiales Construcción,310,22,13.02,A Tiempo
+LOG-4962,Ibagué,Camión Mediano,Materiales Construcción,120,8.5,3.38,Cancelado
+LOG-4963,Armenia,Camión Mediano,Alimentos,180.5,70,15.94,Cancelado
+LOG-4964,Cali,Furgón,Electrónica,310,8.5,5.75,Retrasado
+LOG-4965,Manizales,Camión Mediano,Materiales Construcción,180.5,,16.71,A Tiempo
+LOG-4966,Pereira,Tractomula,Textiles,78.5,35.5,21.38,A Tiempo
+LOG-4967,Ibagué,Camioneta,Electrónica,78.5,22,14.48,Cancelado
+LOG-4968,Armenia,Tractomula,Materiales Construcción,180.5,22,19.92,A Tiempo
+LOG-4969,Armenia,Tractomula,Textiles,260,8.5,15.8,A Tiempo
+LOG-4970,Cali,Furgón,Materiales Construcción,310,8.5,18.8,A Tiempo
+LOG-4971,Pereira,Camioneta,Electrónica,45,8.5,17.29,A Tiempo
+LOG-4972,Ibagué,Camión Mediano,Materiales Construcción,78.5,22,2.04,A Tiempo
+LOG-4973,Cali,Tractomula,Alimentos,450,8.5,5.66,A Tiempo
+LOG-4974,Ibagué,Tractomula,Alimentos,180.5,22,11.38,A Tiempo
+LOG-4975,Manizales,Tractomula,Electrónica,120,8.5,20.79,A Tiempo
+LOG-4976,Pereira,Camioneta,Materiales Construcción,260,52,10.98,Cancelado
+LOG-4977,Armenia,Camioneta,Electrónica,310,8.5,12.59,A Tiempo
+LOG-4978,Pereira,Tractomula,Materiales Construcción,78.5,22,24.52,A Tiempo
+LOG-4979,Manizales,Camión Mediano,Textiles,120,8.5,1.52,Retrasado
+LOG-4980,Armenia,Camioneta,Materiales Construcción,180.5,8.5,14.76,Retrasado
+LOG-4981,Pereira,Camión Mediano,Electrónica,120,8.5,22.7,A Tiempo
+LOG-4982,Pereira,Furgón,Textiles,310,,3.35,Retrasado
+LOG-4983,Pereira,Furgón,Materiales Construcción,,,13.13,Cancelado
+LOG-4984,Cali,Camioneta,Textiles,180.5,8.5,6.68,A Tiempo
+LOG-4985,Armenia,Furgón,Textiles,45,22,10.99,A Tiempo
+LOG-4986,Pereira,Tractomula,Alimentos,120,22,18.43,Retrasado
+LOG-4987,Pereira,Furgón,Materiales Construcción,78.5,8.5,12.62,A Tiempo
+LOG-4988,Ibagué,Furgón,Alimentos,310,22,2.98,Cancelado
+LOG-4989,Cali,Furgón,Electrónica,450,22,7.38,A Tiempo
+LOG-4990,Ibagué,Furgón,Alimentos,180.5,,13.3,A Tiempo
+LOG-4991,Pereira,Camioneta,Electrónica,78.5,14,1.88,A Tiempo
+LOG-4992,Armenia,Camión Mediano,Materiales Construcción,120,,22.4,A Tiempo
+LOG-4993,Cali,Camioneta,Textiles,78.5,14,21.18,A Tiempo
+LOG-4994,Cali,Furgón,Electrónica,78.5,8.5,6.88,A Tiempo
+LOG-4995,Ibagué,Camión Mediano,Textiles,120,52,3.1,A Tiempo
+LOG-4996,Armenia,Tractomula,Electrónica,450,14,1.01,A Tiempo
+LOG-4997,Pereira,Camioneta,Electrónica,260,14,2.03,A Tiempo
+LOG-4998,Ibagué,Camioneta,Alimentos,78.5,52,20.68,Retrasado
+LOG-4999,Manizales,Furgón,Textiles,180.5,22,21.51,A Tiempo
+LOG-5000,Ibagué,Tractomula,Materiales Construcción,45,8.5,12.79,Retrasado
+LOG-4061,Cali,Tractomula,Textiles,120,35.5,12.85,A Tiempo
+LOG-4062,Cali,Camión Mediano,Electrónica,310,22,6.93,A Tiempo
+LOG-4063,Pereira,Camión Mediano,Textiles,120,14,8.1,Retrasado
+LOG-4064,Cali,Tractomula,Materiales Construcción,260,,12.02,A Tiempo
+LOG-4065,Pereira,Camión Mediano,Alimentos,78.5,22,11.06,A Tiempo
+LOG-4066,Ibagué,Furgón,Materiales Construcción,45,22,18.01,A Tiempo
+LOG-4067,Cali,Camioneta,Electrónica,260,52,12.65,A Tiempo
+LOG-4068,Armenia,Camión Mediano,Electrónica,78.5,52,4.77,Cancelado
+LOG-4069,Ibagué,Tractomula,Textiles,450,35.5,23.57,A Tiempo
+LOG-4070,Ibagué,Camioneta,Alimentos,45,22,13.33,Retrasado
+LOG-4071,Cali,Tractomula,Materiales Construcción,260,8.5,4.62,Cancelado
+LOG-4072,Manizales,Camión Mediano,Alimentos,180.5,14,12.91,A Tiempo
